@@ -1,1 +1,1 @@
-# Football-results using an api for gwtting up to date results
+# Football-results using an api for getting up to date results
